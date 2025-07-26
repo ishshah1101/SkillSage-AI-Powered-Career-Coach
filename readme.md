@@ -4,7 +4,7 @@ Tired of sending resumes into the void?
 
 **SkillSage** is your personalized, AI-powered career coach that transforms how you apply for jobs. From resume-to-job alignment to smart career Q&A — it’s built to **help you stand out** in the job market with clarity and confidence.
 
-![SkillSage UI Demo](./public/bg1.jpg)
+![SkillSage UI Demo](./images/UI.png)
 
 ---
 
